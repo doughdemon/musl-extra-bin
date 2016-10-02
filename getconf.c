@@ -32,7 +32,6 @@
 
 #include <err.h>
 #include <errno.h>
-#include <values.h>
 #include <limits.h>
 #include <locale.h>
 #include <stdio.h>
