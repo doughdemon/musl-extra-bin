@@ -38,11 +38,9 @@
 #include <grp.h>
 #include <stdio.h>
 #include <stdarg.h>
-#include <stdbool.h>
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-#include <paths.h>
 #include <err.h>
 
 #include <arpa/inet.h>
