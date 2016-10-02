@@ -1,0 +1,7 @@
+This is a collection of the utilities getconf, getent and iconv
+for the use with the musl c library.
+
+getconf and getent are from NetBSD and cleaned up by Timo Teräs.
+iconv is written from scratch by Rich Felker.
+
+Please see the individual files for their license.

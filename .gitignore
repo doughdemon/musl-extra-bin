@@ -1,0 +1,14 @@
+*.o
+Makefile.in
+Makefile
+aclocal.m4
+autom4te.cache
+compile
+configure
+config.log
+config.status
+getconf
+getent
+iconv
+install-sh
+missing
